@@ -1,20 +1,3 @@
-# project stuff
-Downloads/
-*.log
-*.sqlite
-
-# Python stuff
-.venv/
-__pycache__/
-*.egg-info/
-build/
-release/
-start_dev.py
-.vscode/settings.json
-
-# Scripts
-run.bat
-input.txt
-_download_log.txt
-input-test.txt
-Unsupported_Urls.txt
+# Project stuff
+/Test-Download-Dir/
+/Test-AppData-Dir/
